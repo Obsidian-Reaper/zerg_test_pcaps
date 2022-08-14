@@ -1,0 +1,66 @@
+Version: 1
+Sequence ID: 915
+Source ID: 915
+Destination ID: 6600
+Payload Type: GPS
+Current Latitude: 38.895272
+Current Longitude: -77.0363745
+Current Altitude: 23.7861 fathoms
+Current Bearing: 47.8333°
+Current Speed: 27.7778 meters per second
+GPS Circular Error Probability: 5 meters
+Version: 1
+Sequence ID: 781
+Source ID: 781
+Destination ID: 6600
+Payload Type: GPS
+Current Latitude: 38.895014
+Current Longitude: -77.0363745
+Current Altitude: 23.7861 fathoms
+Current Bearing: 47.8333°
+Current Speed: 27.7778 meters per second
+GPS Circular Error Probability: 5 meters
+Version: 1
+Sequence ID: 782
+Source ID: 782
+Destination ID: 6600
+Payload Type: GPS
+Current Latitude: 38.895014
+Current Longitude: -77.0364255
+Current Altitude: 23.7861 fathoms
+Current Bearing: 47.8333°
+Current Speed: 27.7778 meters per second
+GPS Circular Error Probability: 5 meters
+Version: 1
+Sequence ID: 780
+Source ID: 780
+Destination ID: 6600
+Payload Type: GPS
+Current Latitude: 38.895100
+Current Longitude: -77.036400
+Current Altitude: 23.7861 fathoms
+Current Bearing: 47.8333°
+Current Speed: 27.7778 meters per second
+GPS Circular Error Probability: 5 meters
+Version: 1
+Sequence ID: 513
+Source ID: 513
+Destination ID: 6600
+Payload Type: GPS
+Current Latitude: 38.895186
+Current Longitude: -77.036400
+Current Altitude: 23.7861 fathoms
+Current Bearing: 47.8333°
+Current Speed: 27.7778 meters per second
+GPS Circular Error Probability: 5 meters
+Version: 1
+Sequence ID: 81
+Source ID: 44
+Destination ID: 6600
+Payload Type: GPS
+Current Latitude: 38.895272
+Current Longitude: -77.0364255
+Current Altitude: 23.7861 fathoms
+Current Bearing: 47.8333°
+Current Speed: 27.7778 meters per second
+GPS Circular Error Probability: 5 meters
